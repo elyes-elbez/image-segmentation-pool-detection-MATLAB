@@ -1,0 +1,13 @@
+.SimulinkProject/
+# MATLAB autosave
+*.asv
+
+# Compiled MEX files
+*.mex*
+
+# Simulink models
+*.slx
+*.mdl
+
+# MATLAB apps (optional)
+*.mlapp
